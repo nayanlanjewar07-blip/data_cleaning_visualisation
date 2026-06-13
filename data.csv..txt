@@ -1,0 +1,6 @@
+Name,Age,Salary,Department
+Amit,22,25000,IT
+Rahul,24,30000,HR
+Priya,,28000,IT
+Amit,22,25000,IT
+Neha,23,,Finance
